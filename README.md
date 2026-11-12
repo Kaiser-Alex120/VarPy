@@ -1,5 +1,6 @@
 # VarPy — Modelos VAR/SVAR en Python
 
+Este fue el primer proyecto que quise elaborar, principalmente se hizo con Gemini y Copilot para la elaboración de funciones y pruebas.
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_qzi4nzqzi4nzqzi4" src="https://github.com/user-attachments/assets/8bee7d59-4fe6-4c38-82a8-6d4c959498e3" />
 
